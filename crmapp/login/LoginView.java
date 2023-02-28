@@ -20,7 +20,7 @@ public class LoginView implements LoginViewCallback {
     }
 
     private void start() {
-        System.out.printf("\n%70s", "<------ Welcome to Bus Ticket Booking Appliation ------>");
+        System.out.printf("\n%70s", "<------ Welcome to CRM Appliation ------>");
         while (true) {
             System.out.println("\n1. Admin login");
             System.out.println("2. Admin Signup");
