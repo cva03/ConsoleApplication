@@ -1,0 +1,1 @@
+{"1":{"id":1,"name":"Zoho","email":"zoho@gmail.com","phone":"1234567890","interactions":[{"id":2,"customerId":1,"type":"complaint","notes":"issues regarding web error"}]},"2":{"id":2,"name":"siva","email":"siva@zoho","phone":"9786954272","interactions":[{"id":1,"customerId":2,"type":"updated interaction","notes":"regarding connectivity"}]}}
