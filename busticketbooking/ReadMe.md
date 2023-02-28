@@ -10,6 +10,8 @@ modules :
   * Login
   * admin
   * user
+
+
 In the login page new user can sign in and the new admin can be created every data will be stored in the json file.
 
 User can do:
