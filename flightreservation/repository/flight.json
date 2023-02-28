@@ -1,0 +1,50 @@
+[
+  {
+    "name": "vijay",
+    "id": 30,
+    "from": "chennai",
+    "date": "16/02/2023",
+    "to": "madurai",
+    "departure": "10:00",
+    "dropTime": "12:00",
+    "capacity": 200,
+    "availableseats": 196,
+    "ticketPrice": 1000
+  },
+  {
+    "name": "Kingfisher",
+    "id": 18,
+    "from": "chennai",
+    "date": "16/02/2023",
+    "to": "bangalore",
+    "departure": "10:00",
+    "dropTime": "19:00",
+    "capacity": 200,
+    "availableseats": 0,
+    "ticketPrice": 1000
+  },
+  {
+    "name": "madurai express",
+    "id": 33,
+    "from": "madurai",
+    "date": "20/02/2023",
+    "to": "chennai",
+    "departure": "07:30",
+    "dropTime": "10:00",
+    "capacity": 200,
+    "availableseats": 199,
+    "ticketPrice": 4000
+  },
+  {
+    "name": "tenkasi express",
+    "id": 3,
+    "from": "tenkasi",
+    "date": "21/02/2023",
+    "to": "chennai",
+    "departure": "10:00",
+    "dropTime": "13:00",
+    "capacity": 300,
+    "availableseats": 300,
+    "ticketPrice": 5999
+  }
+]

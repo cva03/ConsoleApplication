@@ -1,0 +1,100 @@
+[
+  {
+    "name": "dummy",
+    "password": "dummy@zoho",
+    "bookings": [],
+    "admin": false
+  },
+  {
+    "name": "Vijay",
+    "password": "vijay@zoho",
+    "bookings": [],
+    "admin": true
+  },
+  {
+    "name": "Guru",
+    "password": "guru@zoho",
+    "bookings": [
+      {
+        "bookingId": 1,
+        "userName": "Guru",
+        "flight": {
+          "name": "vijay",
+          "id": 30,
+          "from": "chennai",
+          "date": "16/02/2023",
+          "to": "madurai",
+          "departure": "10:00",
+          "dropTime": "12:00",
+          "capacity": 200,
+          "availableseats": 196,
+          "ticketPrice": 1000
+        },
+        "passengerList": [
+          {
+            "name": "guru",
+            "age": 21
+          },
+          {
+            "name": "guru appa",
+            "age": 50
+          },
+          {
+            "name": "guru amma",
+            "age": 45
+          }
+        ],
+        "totalAmount": 3000
+      }
+    ],
+    "admin": false
+  },
+  {
+    "name": "Siva",
+    "password": "siva@zoho",
+    "bookings": [],
+    "admin": true
+  },
+  {
+    "name": "Dani",
+    "password": "dani@zoho",
+    "bookings": [
+      {
+        "bookingId": 1,
+        "userName": "Dani",
+        "flight": {
+          "name": "vijay",
+          "id": 30,
+          "from": "chennai",
+          "date": "16/02/2023",
+          "to": "madurai",
+          "departure": "10:00",
+          "dropTime": "12:00",
+          "capacity": 200,
+          "availableseats": 200,
+          "ticketPrice": 1000
+        },
+        "passengerList": [
+          {
+            "name": "siva",
+            "age": 23
+          }
+        ],
+        "totalAmount": 1000
+      }
+    ],
+    "admin": false
+  },
+  {
+    "name": "Bala",
+    "password": "bala@zoho",
+    "bookings": [],
+    "admin": false
+  },
+  {
+    "name": "ShanmugaVel",
+    "password": "shanmugavel@zoho",
+    "bookings": [],
+    "admin": false
+  }
+]
