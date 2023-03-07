@@ -24,3 +24,5 @@ what admin can do:
   The admin to CRUD operations to the customer and interaction tables. 
   The customer consist of name , email address, customer id and phone no
   The interaction consist of type of interaction, notes of interaction and the interaction id and the customer id, here the customer id act as the foreign key.
+  youtube link: 
+       https://youtu.be/l6wNyPtrTEQ
